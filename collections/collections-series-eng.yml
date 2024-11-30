@@ -1,12 +1,12 @@
 collections:
-  Latest Series to Watch:
+  New To You:
     collection_filtering: user
     smart_filter:
       all:
         unplayed_episodes: true
       sort_by: episode_added.desc
     sort_title: |-
-      !0 - Latest Series to Watch
+      !0 - New To You
     collection_mode: hide
     visible_library: true
     visible_home: true
