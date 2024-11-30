@@ -1,0 +1,27 @@
+collections:
+  Latest Series to Watch:
+    collection_filtering: user
+    smart_filter:
+      all:
+        unplayed_episodes: true
+      sort_by: episode_added.desc
+    sort_title: |-
+      !0 - Latest Series to Watch
+    collection_mode: hide
+    visible_library: true
+    visible_home: true
+    visible_shared: true
+
+  Top Unwatched Series:
+    collection_filtering: user
+    smart_filter:
+      all:
+        unplayed_episodes: true
+        plays.lt: 1
+      sort_by: critic_rating.desc
+    sort_title: |-
+      !1 - Top Unwatched Series
+    collection_mode: hide
+    visible_library: true
+    visible_home: true
+    visible_shared: true

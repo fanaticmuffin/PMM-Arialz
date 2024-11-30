@@ -1,119 +1,70 @@
-# Romaji-Renamer v1.24+
 metadata:
   tt0110008:
     title: |-
-      Heisei Tanuki Gassen Ponpoko
-    sort_title: |-
-      Heisei Tanuki Gassen Ponpoko
-    original_title: |-
       Pom Poko
-    genre.sync: Comedy,Drama,Fantasy,Environmental,Mythology,Ensemble Cast,Animals,Rural,Primarily Animal Cast,Anthropomorphism,Henshin,Shapeshifting,Revenge,Primarily Male Cast
+    sort_title: |-
+      Pom Poko
+    original_title: |-
+      Heisei Tanuki Gassen Ponpoko
+    genre.sync: Anime,Comedy,Drama,Fantasy,Environmental,Mythology,Ensemble Cast,Animals,Rural,Primarily Animal Cast,Anthropomorphism,Henshin,Shapeshifting,Revenge,Primarily Male Cast,Slapstick,Male Protagonist
     studio: Studio Ghibli
     audience_rating: 7.0
     critic_rating: 7.3
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0094625:
+  tt0983213:
     title: |-
-      Akira
+      5 Centimeters per Second
     sort_title: |-
-      Akira
+      5 Centimeters per Second
     original_title: |-
-      Akira
-    genre.sync: Action,Adventure,Horror,Psychological,Sci-Fi,Supernatural,Cyberpunk,Post-Apocalyptic,Dystopian,Super Power,Urban,Tragedy,Male Protagonist,Delinquents,Seinen,Body Horror,Primarily Male Cast,Anti-Hero,Conspiracy,Motorcycles,Urban Fantasy,Gangs,Military,Gore,Philosophy
-    studio: Tokyo Movie Shinsha
-    audience_rating: 7.9
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt3028018:
-    title: |-
-      Ao no Exorcist Movie
-    sort_title: |-
-      Ao no Exorcist Movie
-    original_title: |-
-      Blue Exorcist: The Movie
-    genre.sync: Action,Fantasy,Supernatural,Demons,Shounen,Urban Fantasy,Magic,Male Protagonist,Primarily Teen Cast,Youkai
-    studio: A-1 Pictures
-    audience_rating: 7.3
+      Byousoku 5 Centimeter
+    genre.sync: Anime,Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Time Skip,Tragedy,Unrequited Love,Travel,Trains,Male Protagonist,Female Protagonist
+    studio: CoMix Wave
+    audience_rating: 7.1
     critic_rating: 7.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt12441478:
+  tt5323662:
     title: |-
-      Aya to Majo
+      A Silent Voice
     sort_title: |-
-      Aya to Majo
+      A Silent Voice
     original_title: |-
-      Earwig and the Witch
-    genre.sync: Fantasy,Witch,Magic,Full CGI,Kids,CGI,Female Protagonist
-    studio: Studio Ghibli
-    audience_rating: 5.1
-    critic_rating: 5.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt4272866:
+      Koe no Katachi
+    genre.sync: Anime,Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Denpa,Tragedy,Male Protagonist,Primarily Teen Cast,School,Time Skip,Heterosexual,Female Protagonist
+    studio: Kyoto Animation
+    audience_rating: 8.8
+    critic_rating: 8.9
+  tt11958344:
     title: |-
-      Bakemono no Ko
+      A Whisker Away
     sort_title: |-
-      Bakemono no Ko
+      A Whisker Away
     original_title: |-
-      The Boy and The Beast
-    genre.sync: Action,Adventure,Comedy,Drama,Fantasy,Supernatural,Coming of Age,Male Protagonist,Urban Fantasy,Martial Arts,Found Family,Isekai,Cultivation,Primarily Animal Cast,Anthropomorphism,Orphan,Tragedy,Time Skip
-    studio: Studio Chizu
-    audience_rating: 7.9
-    critic_rating: 8.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
+      Nakitai Watashi wa Neko wo Kaburu
+    genre.sync: Anime,Drama,Fantasy,Romance,Shapeshifting,Animals,Female Protagonist,Henshin,Kemonomimi,Family Life,Urban Fantasy,Heterosexual,School,Anthropomorphism
+    studio: Studio Colorido
+    audience_rating: 7.2
+    critic_rating: 7.3
   tt22868844:
     title: |-
-      Black Clover: Mahou Tei no Ken
-    sort_title: |-
-      Black Clover: Mahou Tei no Ken
-    original_title: |-
       Black Clover: Sword of the Wizard King
-    genre.sync: Action,Adventure,Comedy,Fantasy,Magic,Shounen,Male Protagonist,Revenge,Swordplay,Reincarnation,Super Power,Ensemble Cast,Demons
+    sort_title: |-
+      Black Clover: Sword of the Wizard King
+    original_title: |-
+      Black Clover: Mahou Tei no Ken
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Magic,Shounen,Male Protagonist,Revenge,Swordplay,Reincarnation,Super Power,Ensemble Cast,Demons
     studio: Studio Pierrot
     audience_rating: 8.0
     critic_rating: 8.0
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt7745068:
+  tt1941466:
     title: |-
-      Boku no Hero Academia THE MOVIE: Futari no Hero
+      BLOOD-C: The Last Dark
     sort_title: |-
-      Boku no Hero Academia THE MOVIE: Futari no Hero
+      BLOOD-C: The Last Dark
     original_title: |-
-      My Hero Academia: Two Heroes
-    genre.sync: Action,Comedy,Drama,Sci-Fi,Super Power,Superhero,Shounen,Male Protagonist,Primarily Male Cast,Terrorism
-    studio: bones
-    audience_rating: 7.4
-    critic_rating: 7.5
-    label: AA Winner,Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt11107074:
-    title: |-
-      Boku no Hero Academia THE MOVIE: Heroes:Rising
-    sort_title: |-
-      Boku no Hero Academia THE MOVIE: Heroes:Rising
-    original_title: |-
-      My Hero Academia: Heroes Rising
-    genre.sync: Action,Sci-Fi,Superhero,Super Power,Shounen,Rural,Male Protagonist,Terrorism,Chimera,Cultivation,Primarily Male Cast,Alternate Universe,School
-    studio: bones
-    audience_rating: 7.8
-    critic_rating: 7.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt13544716:
-    title: |-
-      Boku no Hero Academia THE MOVIE: World Heroes' Mission
-    sort_title: |-
-      Boku no Hero Academia THE MOVIE: World Heroes' Mission
-    original_title: |-
-      My Hero Academia: World Heroes' Mission
-    genre.sync: Action,Adventure,Sci-Fi,Super Power,Cult,Superhero,Primarily Male Cast,Primarily Teen Cast,Shounen,Conspiracy,Espionage,Fugitive,Crime,Anti-Hero
-    studio: bones
-    audience_rating: 7.6
-    critic_rating: 7.6
-    label: Planning
-    label.remove: Completed,Watching,Dropped,Paused,
+      BLOOD-C: The Last Dark
+    genre.sync: Anime,Action,Horror,Supernatural,Female Protagonist,Vampire,Gore,Assassins,Tragedy,Revenge,Kuudere
+    studio: Production I.G
+    audience_rating: 6.8
+    critic_rating: 7.2
   tt16360006:
     title: |-
       Bubble
@@ -121,1604 +72,669 @@ metadata:
       Bubble
     original_title: |-
       Bubble
-    genre.sync: Romance,Sci-Fi,Sports,Supernatural,Parkour,Post-Apocalyptic,Urban Fantasy,Tragedy,Male Protagonist,Dystopian,Urban,Heterosexual,Lost Civilization,Female Protagonist,Aliens,Primarily Teen Cast
+    genre.sync: Anime,Romance,Sci-Fi,Sports,Supernatural,Parkour,Post-Apocalyptic,Urban Fantasy,Tragedy,Male Protagonist,Dystopian,Urban,Heterosexual,Lost Civilization,Female Protagonist,Aliens,Primarily Teen Cast,Coming of Age,Disability
     studio: Wit Studio
     audience_rating: 7.1
     critic_rating: 7.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt8391976:
+  tt0092067:
     title: |-
-      Bungou Stray Dogs: DEAD APPLE
+      Castle in the Sky
     sort_title: |-
-      Bungou Stray Dogs: DEAD APPLE
+      Castle in the Sky
     original_title: |-
-      Bungo Stray Dogs: DEAD APPLE
-    genre.sync: Action,Comedy,Mystery,Supernatural,Detective,Super Power,Urban Fantasy,Mafia,Anti-Hero,Male Protagonist,Crime
-    studio: bones
-    audience_rating: 7.8
-    critic_rating: 7.9
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0983213:
+      Tenkuu no Shiro Laputa
+    genre.sync: Anime,Adventure,Fantasy,Sci-Fi,Lost Civilization,Environmental,Steampunk,Pirates,Aviation,Fugitive,Female Protagonist,Military,Travel,Male Protagonist,Primarily Adult Cast
+    studio: Studio Ghibli
+    audience_rating: 8.0
+    critic_rating: 8.3
+  tt1839494:
     title: |-
-      Byousoku 5 Centimeter
+      Children who Chase Lost Voices
     sort_title: |-
-      Byousoku 5 Centimeter
+      Children who Chase Lost Voices
     original_title: |-
-      5 Centimeters per Second
-    genre.sync: Drama,Romance,Slice of Life,Coming of Age,Heterosexual,Time Skip,Tragedy,Unrequited Love,Travel,Trains,Male Protagonist
+      Hoshi wo Ou Kodomo
+    genre.sync: Anime,Adventure,Drama,Fantasy,Romance,Mythology,Lost Civilization,Gods,Philosophy,Female Protagonist,Magic,Rural,Urban Fantasy,Tragedy
     studio: CoMix Wave
     audience_rating: 7.1
-    critic_rating: 7.6
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt6915208:
+    critic_rating: 7.5
+  tt15494038:
     title: |-
-      Chuunibyou demo Koi ga Shitai!: Take On Me
+      Drifting Home
     sort_title: |-
-      Chuunibyou demo Koi ga Shitai!: Take On Me
+      Drifting Home
     original_title: |-
-      Love, Chunibyo & Other Delusions: Take on Me
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Coming of Age,Chuunibyou,Male Protagonist,Female Protagonist,Travel,Fugitive,Trains,Primarily Female Cast,Slapstick
-    studio: Kyoto Animation
-    audience_rating: 8.0
-    critic_rating: 8.1
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt12735338:
+      Ame wo Tsugeru Hyouryuu Danchi
+    genre.sync: Anime,Adventure,Drama,Mystery,Supernatural,Primarily Child Cast,Found Family,Urban Fantasy,Coming of Age,Kids,Survival,Isekai,Ghost,Coastal
+    studio: Studio Colorido
+    audience_rating: 7.2
+    critic_rating: 7.3
+  tt6317962:
     title: |-
-      Cider no You ni Kotoba ga Wakiagaru
+      Fireworks
     sort_title: |-
-      Cider no You ni Kotoba ga Wakiagaru
+      Fireworks
     original_title: |-
-      Words Bubble Up Like Soda Pop
-    genre.sync: Romance,Slice of Life,Coming of Age,Primarily Teen Cast,Rural,Male Protagonist,Heterosexual
-    studio: Signal.MD
-    audience_rating: 7.4
-    critic_rating: 7.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt6344664:
-    title: |-
-      Code Geass: Fukkatsu no Lelouch
-    sort_title: |-
-      Code Geass: Fukkatsu no Lelouch
-    original_title: |-
-      Code Geass: Lelouch of the Re;surrection
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Anti-Hero,Politics,Time Manipulation,Alternate Universe,Military,Super Power,Male Protagonist,Super Robot,Foreign,Primarily Adult Cast,Real Robot
-    studio: Sunrise
-    audience_rating: 7.7
-    critic_rating: 7.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt8100900:
-    title: |-
-      Code Geass: Hangyaku no Lelouch I - Koudou
-    sort_title: |-
-      Code Geass: Hangyaku no Lelouch I - Koudou
-    original_title: |-
-      Code Geass: Lelouch of the Rebellion I - Initiation
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Thriller,Military,Revenge,Super Power,Ensemble Cast,Real Robot,Class Struggle,Male Protagonist
-    studio: Sunrise
-    audience_rating: 7.6
-    critic_rating: 7.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt9598270:
-    title: |-
-      Code Geass: Hangyaku no Lelouch II - Handou
-    sort_title: |-
-      Code Geass: Hangyaku no Lelouch II - Handou
-    original_title: |-
-      Code Geass: Lelouch of the Rebellion II - Transgression
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Thriller,Anti-Hero,Real Robot,Class Struggle
-    studio: Sunrise
-    audience_rating: 7.3
-    critic_rating: 7.7
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt9844256:
-    title: |-
-      Code Geass: Hangyaku no Lelouch III - Oudou
-    sort_title: |-
-      Code Geass: Hangyaku no Lelouch III - Oudou
-    original_title: |-
-      Code Geass: Lelouch of the Rebellion III - Glorification
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Thriller,Anti-Hero,War,Politics,Military,Real Robot,Class Struggle
-    studio: Sunrise
-    audience_rating: 7.7
-    critic_rating: 8.0
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
+      Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?
+    genre.sync: Anime,Drama,Romance,Supernatural,Time Manipulation,Alternate Universe,Heterosexual,Urban Fantasy,Philosophy,Rural,Coming of Age,Male Protagonist,Primarily Teen Cast
+    studio: Shaft
+    audience_rating: 5.9
+    critic_rating: 6.1
   tt1798188:
     title: |-
-      Coquelicot-zaka kara
-    sort_title: |-
-      Coquelicot-zaka kara
-    original_title: |-
       From Up on Poppy Hill
-    genre.sync: Drama,Romance,Slice of Life,School,Historical,Coming of Age,Shoujo,Heterosexual,Female Protagonist,Primarily Teen Cast
+    sort_title: |-
+      From Up on Poppy Hill
+    original_title: |-
+      Coquelicot-zaka kara
+    genre.sync: Anime,Drama,Romance,Slice of Life,School,Historical,Coming of Age,Shoujo,Heterosexual,Female Protagonist,Primarily Teen Cast,School Club,Ships
     studio: Studio Ghibli
     audience_rating: 7.5
     critic_rating: 7.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0259974:
+  tt3017864:
     title: |-
-      Digimon Adventure (Movie)
+      Ghost in the Shell: Arise - Border:2 Ghost Whispers
     sort_title: |-
-      Digimon Adventure (Movie)
+      Ghost in the Shell: Arise - Border:2 Ghost Whispers
     original_title: |-
-      Digimon Adventure (Movie)
-    genre.sync: Fantasy,Sci-Fi,Kaiju,Kids,Primarily Child Cast
-    studio: Toei Animation
-    audience_rating: 7.4
-    critic_rating: 7.6
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt7961060:
-    title: |-
-      Dragon Ball Super: Broly
-    sort_title: |-
-      Dragon Ball Super: Broly
-    original_title: |-
-      Dragon Ball Super: Broly
-    genre.sync: Action,Adventure,Fantasy,Sci-Fi,Super Power,Primarily Male Cast,Shounen,Aliens,Martial Arts,Henshin,Male Protagonist,Primarily Adult Cast
-    studio: Toei Animation
-    audience_rating: 8.0
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt9526152:
-    title: |-
-      Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya
-    sort_title: |-
-      Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka: Orion no Ya
-    original_title: |-
-      Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion
-    genre.sync: Action,Adventure,Comedy,Fantasy,Romance,Gods,Mythology,Primarily Female Cast,Female Harem,Magic,Male Protagonist,Tragedy
-    studio: J.C. Staff
-    audience_rating: 7.2
-    critic_rating: 7.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0270933:
-    title: |-
-      Escaflowne
-    sort_title: |-
-      Escaflowne
-    original_title: |-
-      Escaflowne: A Girl in Gaea
-    genre.sync: Adventure,Drama,Fantasy,Mecha,Romance,Sci-Fi,Isekai,Female Protagonist,War,Super Robot,Shoujo
-    studio: Sunrise
-    audience_rating: 6.6
-    critic_rating: 7.1
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0860906:
-    title: |-
-      Evangelion Shin Movie: Ha
-    sort_title: |-
-      Evangelion Shin Movie: Ha
-    original_title: |-
-      Evangelion: 2.0 You Can (Not) Advance
-    genre.sync: Action,Drama,Mecha,Psychological,Sci-Fi,Kaiju,Super Robot,Military,Denpa,Meta,Cosmic Horror,Real Robot,Post-Apocalyptic,Aliens,Male Protagonist,CGI,Coming of Age
-    studio: Gainax
-    audience_rating: 8.1
-    critic_rating: 8.3
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt0923811:
-    title: |-
-      Evangelion Shin Movie: Jo
-    sort_title: |-
-      Evangelion Shin Movie: Jo
-    original_title: |-
-      Evangelion: 1.0 You Are (Not) Alone
-    genre.sync: Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Coming of Age,Military,Kuudere,Dystopian,Male Protagonist,Super Robot,Kaiju,Aliens,CGI
-    studio: Gainax
-    audience_rating: 7.7
-    critic_rating: 8.0
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt0860907:
-    title: |-
-      Evangelion Shin Movie: Kyuu
-    sort_title: |-
-      Evangelion Shin Movie: Kyuu
-    original_title: |-
-      Evangelion: 3.0 You Can (Not) Redo
-    genre.sync: Action,Drama,Mecha,Psychological,Sci-Fi,Post-Apocalyptic,Time Skip,Super Robot,Male Protagonist,Alternate Universe,Boys' Love,LGBTQ+ Themes,Tragedy,Kaiju,Denpa
-    studio: Studio Khara
-    audience_rating: 7.5
-    critic_rating: 7.7
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1715210:
-    title: |-
-      Eve no Jikan Movie
-    sort_title: |-
-      Eve no Jikan Movie
-    original_title: |-
-      Time of Eve: The Movie
-    genre.sync: Sci-Fi,Slice of Life,Robots,Artificial Intelligence,Bar,Philosophy,Male Protagonist,Cyberpunk,Heterosexual,Software Development,Anthropomorphism,Found Family
-    studio: Studio Rikka
-    audience_rating: 7.7
-    critic_rating: 8.0
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt0173840:
-    title: |-
-      Final Fantasy
-    sort_title: |-
-      Final Fantasy
-    original_title: |-
-      Final Fantasy: The Spirits Within
-    genre.sync: Action,Drama,Sci-Fi,Full CGI,Post-Apocalyptic,Aliens,Primarily Adult Cast,Ghost,Tragedy
-    studio: Square Pictures
-    audience_rating: 5.6
-    critic_rating: 6.3
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0385700:
-    title: |-
-      Final Fantasy VII: Advent Children
-    sort_title: |-
-      Final Fantasy VII: Advent Children
-    original_title: |-
-      Final Fantasy VII: Advent Children
-    genre.sync: Action,Fantasy,Super Power,Guns,CGI,Cyberpunk,Aliens,Full CGI,Male Protagonist,Swordplay
-    studio: Square Enix
+      Koukaku Kidoutai ARISE: GHOST IN THE SHELL - border:2 Ghost Whispers
+    genre.sync: Anime,Action,Psychological,Sci-Fi,Police,Cyberpunk,Guns,Urban,Cyborg,Artificial Intelligence,Female Protagonist,Primarily Adult Cast,Memory Manipulation,Seinen,Robots,Ensemble Cast,Primarily Male Cast
+    studio: Production I.G
     audience_rating: 7.1
-    critic_rating: 7.7
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0876563:
+    critic_rating: 7.5
+  tt3579524:
     title: |-
-      Gake no Ue no Ponyo
+      Ghost in the Shell: Arise - Border:3 Ghost Tears
     sort_title: |-
-      Gake no Ue no Ponyo
+      Ghost in the Shell: Arise - Border:3 Ghost Tears
     original_title: |-
-      Ponyo
-    genre.sync: Adventure,Fantasy,Environmental,Primarily Child Cast,Rural,Magic,Coastal,Anthropomorphism,Natural Disaster,Urban Fantasy
-    studio: Studio Ghibli
-    audience_rating: 7.9
-    critic_rating: 7.9
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0495596:
-    title: |-
-      Ged Senki
-    sort_title: |-
-      Ged Senki
-    original_title: |-
-      Tales from Earthsea
-    genre.sync: Adventure,Fantasy,Magic,Travel,Male Protagonist
-    studio: Studio Ghibli
-    audience_rating: 6.4
-    critic_rating: 6.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0113568:
-    title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai
-    sort_title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai
-    original_title: |-
-      Ghost in the Shell
-    genre.sync: Action,Psychological,Sci-Fi,Cyberpunk,Artificial Intelligence,Philosophy,Urban,Robots,Cyborg,Police,Primarily Male Cast,Primarily Adult Cast,Female Protagonist,Seinen,Noir,Dystopian,Crime
+      Koukaku Kidoutai ARISE: GHOST IN THE SHELL - border:3 Ghost Tears
+    genre.sync: Anime,Action,Psychological,Romance,Sci-Fi,Police,Cyberpunk,Urban,Heterosexual,Guns,Artificial Intelligence,Female Protagonist,Primarily Male Cast,Ensemble Cast,Seinen,Memory Manipulation,Primarily Adult Cast
     studio: Production I.G
-    audience_rating: 8.0
-    critic_rating: 8.3
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1260502:
+    audience_rating: 6.9
+    critic_rating: 7.3
+  tt11151982:
     title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai 2.0
+      Goblin Slayer -goblin’s Crown-
     sort_title: |-
-      GHOST IN THE SHELL: Koukaku Kidoutai 2.0
+      Goblin Slayer -goblin’s Crown-
     original_title: |-
-      Ghost in the Shell 2.0
-    genre.sync: Action,Psychological,Sci-Fi,Military,Cyberpunk,Cyborg,CGI
-    studio: Production I.G
-    audience_rating: 7.6
-    critic_rating: 8.0
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt2374144:
+      Goblin Slayer: GOBLIN'S CROWN
+    genre.sync: Anime,Action,Adventure,Fantasy,Goblin,Revenge,Survival,Anti-Hero,Gore,Primarily Adult Cast,Male Protagonist,Magic,Rural
+    studio: White Fox
+    audience_rating: 7.1
+    critic_rating: 7.3
+  tt0095327:
     title: |-
-      Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
+      Grave of the Fireflies
     sort_title: |-
-      Gintama: Kanketsu-hen - Yorozuya yo Eien Nare
+      Grave of the Fireflies
     original_title: |-
-      Gintama: The Final Chapter - Be Forever Yorozuya
-    genre.sync: Action,Comedy,Sci-Fi,Time Manipulation,Tragedy,Male Protagonist,Swordplay,Post-Apocalyptic,Found Family,Samurai,Parody,Shounen,Historical,Primarily Adult Cast
-    studio: Sunrise
-    audience_rating: 8.7
-    critic_rating: 8.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1636780:
-    title: |-
-      Gintama: Shinyaku Benizakura-hen
-    sort_title: |-
-      Gintama: Shinyaku Benizakura-hen
-    original_title: |-
-      Gintama - The Movie
-    genre.sync: Action,Comedy,Sci-Fi,Swordplay,Parody,Anachronism,Meta,Primarily Male Cast,Shounen,Male Protagonist
-    studio: Sunrise
+      Hotaru no Haka
+    genre.sync: Anime,Drama,Tragedy,Survival,Orphan,War,Family Life,Historical,Primarily Child Cast,Rural,Military,Homeless,Autobiographical,Female Protagonist
+    studio: Studio Ghibli
     audience_rating: 8.3
     critic_rating: 8.5
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt10766468:
+  tt30827040:
     title: |-
-      Gintama: THE FINAL
+      GREAT PRETENDER razbliuto
     sort_title: |-
-      Gintama: THE FINAL
+      GREAT PRETENDER razbliuto
     original_title: |-
-      Gintama: THE VERY FINAL
-    genre.sync: Action,Comedy,Drama,Sci-Fi,Samurai,Dissociative Identities,Swordplay,Shounen,Found Family,Surreal Comedy,Meta,Parody,Male Protagonist,Tragedy,Anachronism,War,Philosophy,Historical,Memory Manipulation,Aliens,Gore,Ensemble Cast
-    studio: Bandai Namco Pictures
-    audience_rating: 9.1
-    critic_rating: 9.0
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt5284414:
-    title: |-
-      Girls und Panzer Movie
-    sort_title: |-
-      Girls und Panzer Movie
-    original_title: |-
-      Girls und Panzer der Film
-    genre.sync: Action,Sports,Ensemble Cast,Tanks,Female Protagonist,Military,School,Cute Girls Doing Cute Things,Primarily Female Cast,School Club,CGI
-    studio: Actas
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt7833606:
-    title: |-
-      Girls und Panzer: Saishuushou 1
-    sort_title: |-
-      Girls und Panzer: Saishuushou 1
-    original_title: |-
-      Girls und Panzer das Finale – Part 1
-    genre.sync: Action,Sports,Tanks,Cute Girls Doing Cute Things,Primarily Teen Cast,Ships,Military,Primarily Female Cast,School Club,School
-    studio: Actas
-    audience_rating: 7.8
-    critic_rating: 7.9
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt7834494:
-    title: |-
-      Girls und Panzer: Saishuushou 2
-    sort_title: |-
-      Girls und Panzer: Saishuushou 2
-    original_title: |-
-      Girls und Panzer das Finale – Part 2
-    genre.sync: Action,Sports,Tanks,Military,Primarily Teen Cast,School Club,Cute Girls Doing Cute Things,Primarily Female Cast,School
-    studio: Actas
-    audience_rating: 7.9
-    critic_rating: 8.1
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt12286898:
-    title: |-
-      Girls und Panzer: Saishuushou 3
-    sort_title: |-
-      Girls und Panzer: Saishuushou 3
-    original_title: |-
-      Girls und Panzer das Finale – Part 3
-    genre.sync: Action,Sports,Tanks,Primarily Teen Cast,Primarily Female Cast,Ensemble Cast,School Club,Cute Girls Doing Cute Things,Military
-    studio: Actas
-    audience_rating: 8.0
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt15721650:
-    title: |-
-      Go-toubun no Hanayome Movie
-    sort_title: |-
-      Go-toubun no Hanayome Movie
-    original_title: |-
-      The Quintessential Quintuplets Movie
-    genre.sync: Comedy,Drama,Romance,Slice of Life,Twins,Female Harem,Male Protagonist,Coming of Age,Love Triangle,Primarily Female Cast,Ensemble Cast,Heterosexual,Marriage,Teacher,School,Shounen,Achronological Order,Tsundere,Kuudere
-    studio: Bibury Animation Studios
-    audience_rating: 7.8
-    critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
+      GREAT PRETENDER: razbliuto
+    genre.sync: Anime,Action,Drama,Thriller,Triads,Amnesia,Foreign,Crime,Female Protagonist,Revenge,Travel,Yakuza,Drugs
+    studio: Wit Studio
+    audience_rating: 7.0
+    critic_rating: 6.8
   tt30476486:
     title: |-
-      Haikyuu!!: Gomi Suteba no Kessen
-    sort_title: |-
-      Haikyuu!!: Gomi Suteba no Kessen
-    original_title: |-
       HAIKYU!! The Dumpster Battle
-    genre.sync: Comedy,Drama,Sports,Volleyball,Shounen,School Club,Male Protagonist,Ensemble Cast,Primarily Male Cast,Coming of Age,POV,Primarily Teen Cast
+    sort_title: |-
+      HAIKYU!! The Dumpster Battle
+    original_title: |-
+      Haikyuu!!: Gomi Suteba no Kessen
+    genre.sync: Anime,Comedy,Drama,Sports,Volleyball,Shounen,School Club,Male Protagonist,Ensemble Cast,Primarily Male Cast,Coming of Age,POV,Primarily Teen Cast
     studio: Production I.G
     audience_rating: 8.6
     critic_rating: 8.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt11639420:
-    title: |-
-      High School Fleet Movie
-    sort_title: |-
-      High School Fleet Movie
-    original_title: |-
-      High School Fleet Movie
-    genre.sync: Action,Comedy,Ships,Primarily Female Cast,Female Protagonist,Military
-    studio: A-1 Pictures
-    audience_rating: 7.3
-    critic_rating: 7.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt5731132:
-    title: |-
-      Hirune Hime: Shiranai Watashi no Monogatari
-    sort_title: |-
-      Hirune Hime: Shiranai Watashi no Monogatari
-    original_title: |-
-      Napping Princess
-    genre.sync: Action,Adventure,Drama,Fantasy,Mecha,Sci-Fi,Cars,Female Protagonist,Artificial Intelligence,Software Development,Motorcycles
-    studio: Signal.MD
-    audience_rating: 6.5
-    critic_rating: 6.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0206013:
-    title: |-
-      Hoohokekyo Tonari no Yamada-kun
-    sort_title: |-
-      Hoohokekyo Tonari no Yamada-kun
-    original_title: |-
-      My Neighbors the Yamadas
-    genre.sync: Comedy,Slice of Life,Ensemble Cast,Family Life,Achronological Order
-    studio: Studio Ghibli
-    audience_rating: 6.9
-    critic_rating: 7.1
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0370754:
-    title: |-
-      Hoshi no Koe
-    sort_title: |-
-      Hoshi no Koe
-    original_title: |-
-      Voices of a Distant Star
-    genre.sync: Drama,Mecha,Romance,Sci-Fi,Space,Age Gap,Achronological Order,Coming of Age,Robots,Aliens,CGI,Heterosexual
-    studio: CoMix Wave
-    audience_rating: 6.4
-    critic_rating: 7.1
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt1839494:
-    title: |-
-      Hoshi wo Ou Kodomo
-    sort_title: |-
-      Hoshi wo Ou Kodomo
-    original_title: |-
-      Children who Chase Lost Voices
-    genre.sync: Adventure,Drama,Fantasy,Romance,Mythology,Lost Civilization,Gods,Philosophy,Female Protagonist,Magic,Rural
-    studio: CoMix Wave
-    audience_rating: 7.1
-    critic_rating: 7.5
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0095327:
-    title: |-
-      Hotaru no Haka
-    sort_title: |-
-      Hotaru no Haka
-    original_title: |-
-      Grave of the Fireflies
-    genre.sync: Drama,Tragedy,Survival,Orphan,War,Family Life,Historical,Primarily Child Cast,Rural,Military,Homeless
-    studio: Studio Ghibli
-    audience_rating: 8.3
-    critic_rating: 8.5
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt0347149:
     title: |-
-      Howl no Ugoku Shiro
-    sort_title: |-
-      Howl no Ugoku Shiro
-    original_title: |-
       Howl‘s Moving Castle
-    genre.sync: Adventure,Drama,Fantasy,Romance,Magic,Female Protagonist,Elderly Protagonist,Steampunk,Witch,War,Monster Boy,Shapeshifting
+    sort_title: |-
+      Howl‘s Moving Castle
+    original_title: |-
+      Howl no Ugoku Shiro
+    genre.sync: Anime,Adventure,Drama,Fantasy,Romance,Magic,Female Protagonist,Elderly Protagonist,Steampunk,Witch,War,Monster Boy,Shapeshifting,Heterosexual,Disability,Fairy Tale,Found Family
     studio: Studio Ghibli
     audience_rating: 8.4
     critic_rating: 8.7
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0347246:
-    title: |-
-      Innocence
-    sort_title: |-
-      Innocence
-    original_title: |-
-      Ghost in the Shell 2: Innocence
-    genre.sync: Action,Psychological,Sci-Fi,Philosophy,Cyberpunk,Police,Memory Manipulation,Artificial Intelligence,CGI,Male Protagonist,Robots,Photography,Seinen,Noir
-    studio: Production I.G
-    audience_rating: 7.5
-    critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt12879624:
-    title: |-
-      Josee to Tora to Sakanatachi
-    sort_title: |-
-      Josee to Tora to Sakanatachi
-    original_title: |-
-      Josee, the Tiger and the Fish
-    genre.sync: Drama,Romance,Slice of Life,Disability,Female Protagonist,Male Protagonist,Tsundere,Heterosexual,Coming of Age,Primarily Adult Cast,Rehabilitation,Drawing,Tragedy
-    studio: bones
-    audience_rating: 8.2
-    critic_rating: 8.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt14331144:
-    title: |-
-      Jujutsu Kaisen 0
-    sort_title: |-
-      Jujutsu Kaisen 0
-    original_title: |-
-      Jujutsu Kaisen 0
-    genre.sync: Action,Supernatural,Demons,Male Protagonist,Urban Fantasy,Tragedy,Shounen,Super Power,Magic,Martial Arts,Cultivation,Gore,Revenge,Monster Boy,Yandere,Body Horror,Urban
-    studio: MAPPA
-    audience_rating: 8.4
-    critic_rating: 8.4
-    label: AA Winner,Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt2576852:
-    title: |-
-      Kaguya-hime no Monogatari
-    sort_title: |-
-      Kaguya-hime no Monogatari
-    original_title: |-
-      The Tale of The Princess Kaguya
-    genre.sync: Drama,Fantasy,Romance,Philosophy,Classic Literature,Tragedy,Historical,Fairy Tale,Female Protagonist,Rural,Family Life,Gods,Religion
-    studio: Studio Ghibli
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt9277666:
-    title: |-
-      Kara no Kyoukai Remix: Gate of seventh heaven
-    sort_title: |-
-      Kara no Kyoukai Remix: Gate of seventh heaven
-    original_title: |-
-      Kara no Kyoukai Remix: Gate of seventh heaven
-    genre.sync: Action,Mystery,Romance,Thriller,Urban Fantasy,Super Power,Female Protagonist,Anti-Hero,Dissociative Identities,Magic,Gore,Primarily Adult Cast,Amnesia
-    studio: ufotable
-    audience_rating: 7.2
-    critic_rating: 7.5
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1343089:
-    title: |-
-      Kara no Kyoukai: Boukyaku Rokuon
-    sort_title: |-
-      Kara no Kyoukai: Boukyaku Rokuon
-    original_title: |-
-      the Garden of sinners Chapter 6: Fairy Tale. (Oblivion Recording)
-    genre.sync: Action,Mystery,Romance,Supernatural,Thriller,Magic,Primarily Female Cast,Super Power,Amnesia,Kuudere,Achronological Order,Female Protagonist,Primarily Adult Cast,Urban Fantasy,Anti-Hero
-    studio: ufotable
-    audience_rating: 7.0
-    critic_rating: 7.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1155650:
-    title: |-
-      Kara no Kyoukai: Fukan Fuukei
-    sort_title: |-
-      Kara no Kyoukai: Fukan Fuukei
-    original_title: |-
-      the Garden of sinners Chapter 1: Thanatos. (Overlooking View)
-    genre.sync: Action,Mystery,Supernatural,Thriller,Suicide,Ghost,Urban Fantasy,Female Protagonist,Dissociative Identities,Super Power,Philosophy,Tragedy,Gore
-    studio: ufotable
-    audience_rating: 7.3
-    critic_rating: 7.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1233474:
-    title: |-
-      Kara no Kyoukai: Garan no Dou
-    sort_title: |-
-      Kara no Kyoukai: Garan no Dou
-    original_title: |-
-      the Garden of sinners Chapter 4: garan-no-dou. (The Hollow Shrine)
-    genre.sync: Action,Mystery,Supernatural,Thriller,Amnesia,Super Power,Female Protagonist,Primarily Adult Cast,Dissociative Identities,Gore,Anti-Hero,Achronological Order
-    studio: ufotable
-    audience_rating: 7.5
-    critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1278060:
-    title: |-
-      Kara no Kyoukai: Mujun Rasen
-    sort_title: |-
-      Kara no Kyoukai: Mujun Rasen
-    original_title: |-
-      the Garden of sinners Chapter 5: Paradox Paradigm
-    genre.sync: Action,Drama,Mystery,Romance,Supernatural,Thriller,Female Protagonist,Super Power,Anti-Hero,Magic,Achronological Order,Urban Fantasy,Gore,Kuudere,Philosophy,Memory Manipulation,Primarily Adult Cast,Crime
-    studio: ufotable
-    audience_rating: 8.4
-    critic_rating: 8.5
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1345776:
-    title: |-
-      Kara no Kyoukai: Satsujin Kousatsu (Kou)
-    sort_title: |-
-      Kara no Kyoukai: Satsujin Kousatsu (Kou)
-    original_title: |-
-      the Garden of sinners Chapter 7: ……not nothing heart. (Murder Speculation Part B)
-    genre.sync: Action,Mystery,Romance,Supernatural,Thriller,Anti-Hero,Crime,Philosophy,Drugs,Female Protagonist,Urban Fantasy,Primarily Adult Cast,Super Power
-    studio: ufotable
-    audience_rating: 8.1
-    critic_rating: 8.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1155651:
-    title: |-
-      Kara no Kyoukai: Satsujin Kousatsu (Zen)
-    sort_title: |-
-      Kara no Kyoukai: Satsujin Kousatsu (Zen)
-    original_title: |-
-      the Garden of sinners Chapter 2: …and nothing heart. (Murder Speculation Part A)
-    genre.sync: Action,Mystery,Romance,Supernatural,Thriller,Dissociative Identities,Kuudere,Female Protagonist,Police,Anti-Hero,Urban Fantasy,Achronological Order,Super Power
-    studio: ufotable
-    audience_rating: 7.5
-    critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt3868344:
-    title: |-
-      Kara no Kyoukai: Shuushou
-    sort_title: |-
-      Kara no Kyoukai: Shuushou
-    original_title: |-
-      the Garden of sinners Chapter 8: The Final Chapter
-    genre.sync: Mystery,Psychological,Supernatural,Dissociative Identities,Philosophy,Urban Fantasy,Female Protagonist,Primarily Adult Cast
-    studio: ufotable
-    audience_rating: 7.1
-    critic_rating: 7.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1155652:
-    title: |-
-      Kara no Kyoukai: Tsuukaku Zanryuu
-    sort_title: |-
-      Kara no Kyoukai: Tsuukaku Zanryuu
-    original_title: |-
-      the Garden of sinners Chapter 3: ever cry, never life. (Remaining Sense of Pain)
-    genre.sync: Action,Drama,Mystery,Supernatural,Thriller,Super Power,Female Protagonist,Anti-Hero,Revenge,Tragedy,Gore,Urban Fantasy,Crime,Rape,Primarily Adult Cast,Body Horror
-    studio: ufotable
-    audience_rating: 7.7
-    critic_rating: 8.0
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1568921:
-    title: |-
-      Karigurashi no Arrietty
-    sort_title: |-
-      Karigurashi no Arrietty
-    original_title: |-
-      The Secret World of Arrietty
-    genre.sync: Adventure,Drama,Fantasy,Rural,Family Life,Classic Literature,Female Protagonist,Coming of Age
-    studio: Studio Ghibli
-    audience_rating: 7.7
-    critic_rating: 7.9
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0087544:
-    title: |-
-      Kaze no Tani no Nausicaä
-    sort_title: |-
-      Kaze no Tani no Nausicaä
-    original_title: |-
-      Nausicaä of the Valley of the Wind
-    genre.sync: Action,Adventure,Drama,Fantasy,Sci-Fi,Environmental,Post-Apocalyptic,Lost Civilization,Female Protagonist,Philosophy,War,Aviation,Military,Eco-Horror
-    studio: Studio Hibari
-    audience_rating: 8.1
-    critic_rating: 8.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt2013293:
-    title: |-
-      Kaze Tachinu
-    sort_title: |-
-      Kaze Tachinu
-    original_title: |-
-      The Wind Rises
-    genre.sync: Drama,Romance,Aviation,Historical,Work,Biographical,Male Protagonist,Tragedy,Time Skip,War,Primarily Adult Cast
-    studio: Studio Ghibli
-    audience_rating: 8.0
-    critic_rating: 8.1
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt1726286:
-    title: |-
-      Kidou Senshi Gundam 00: A wakening of the Trailblazer
-    sort_title: |-
-      Kidou Senshi Gundam 00: A wakening of the Trailblazer
-    original_title: |-
-      Mobile Suit Gundam 00 the Movie: A Wakening of the Trailblazer
-    genre.sync: Action,Mecha,Sci-Fi,Space,Aliens,Real Robot,Ensemble Cast,Military,War
-    studio: Sunrise
-    audience_rating: 6.8
-    critic_rating: 7.3
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt7933596:
-    title: |-
-      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
-    sort_title: |-
-      Kidou Senshi Gundam Thunderbolt: BANDIT FLOWER
-    original_title: |-
-      Mobile Suit Gundam Thunderbolt: Bandit Flower
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Military,Real Robot,Anti-Hero,Gore
-    studio: Sunrise
-    audience_rating: 6.9
-    critic_rating: 7.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt6035470:
-    title: |-
-      Kidou Senshi Gundam Thunderbolt: December Sky
-    sort_title: |-
-      Kidou Senshi Gundam Thunderbolt: December Sky
-    original_title: |-
-      Mobile Suit Gundam Thunderbolt: December Sky
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Military,War,Space,Primarily Adult Cast,Anti-Hero,Real Robot,Tragedy,Guns,Male Protagonist,Seinen
-    studio: Sunrise
-    audience_rating: 7.7
-    critic_rating: 7.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt13288678:
-    title: |-
-      Kidou Senshi Gundam: Senkou no Hathaway
-    sort_title: |-
-      Kidou Senshi Gundam: Senkou no Hathaway
-    original_title: |-
-      Mobile Suit Gundam Hathaway
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Terrorism,Anti-Hero,Politics,Real Robot,Military,Tragedy
-    studio: Sunrise
-    audience_rating: 7.8
-    critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt11032374:
-    title: |-
-      Kimetsu no Yaiba: Mugen Ressha-hen
-    sort_title: |-
-      Kimetsu no Yaiba: Mugen Ressha-hen
-    original_title: |-
-      Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train
-    genre.sync: Action,Adventure,Drama,Fantasy,Mystery,Supernatural,Demons,Swordplay,Shounen,Tragedy,Trains,Male Protagonist,Body Horror,Super Power,Monster Girl,Primarily Teen Cast,CGI,Gore,Primarily Male Cast,Orphan
-    studio: ufotable
-    audience_rating: 8.4
-    critic_rating: 8.6
-    label: AA Winner,Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt5311514:
-    title: |-
-      Kimi no Na wa.
-    sort_title: |-
-      Kimi no Na wa.
-    original_title: |-
-      Your Name.
-    genre.sync: Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Coming of Age,Memory Manipulation,Female Protagonist,Philosophy,Tragedy,Urban,Gender Bending,Time Skip,Rural,Heterosexual,Primarily Teen Cast
-    studio: CoMix Wave
-    audience_rating: 8.5
-    critic_rating: 8.8
-    label: AA Winner,Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt7236034:
     title: |-
-      Kimi no Suizou wo Tabetai
-    sort_title: |-
-      Kimi no Suizou wo Tabetai
-    original_title: |-
       I Want to Eat Your Pancreas
-    genre.sync: Drama,Romance,Slice of Life,Tragedy,Coming of Age,Male Protagonist,Female Protagonist,Philosophy,Heterosexual,Primarily Teen Cast,Rehabilitation,Classic Literature
+    sort_title: |-
+      I Want to Eat Your Pancreas
+    original_title: |-
+      Kimi no Suizou wo Tabetai
+    genre.sync: Anime,Drama,Romance,Slice of Life,Tragedy,Coming of Age,Male Protagonist,Female Protagonist,Philosophy,Heterosexual,Primarily Teen Cast,Rehabilitation,Classic Literature,Achronological Order
     studio: Studio VOLN
     audience_rating: 8.4
     critic_rating: 8.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt6587046:
+  tt12879624:
     title: |-
-      Kimitachi wa Dou Ikiru ka
+      Josee, the Tiger and the Fish
     sort_title: |-
-      Kimitachi wa Dou Ikiru ka
+      Josee, the Tiger and the Fish
     original_title: |-
-      The Boy and the Heron
-    genre.sync: Adventure,Drama,Fantasy,Supernatural,Fairy Tale,Animals,Coming of Age,Autobiographical,Isekai,Anthropomorphism,Shapeshifting,Urban Fantasy,Tragedy,Adoption,Philosophy,Male Protagonist
-    studio: Studio Ghibli
-    audience_rating: 7.7
-    critic_rating: 7.6
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt5595168:
-    title: |-
-      Kingsglaive Final Fantasy XV
-    sort_title: |-
-      Kingsglaive Final Fantasy XV
-    original_title: |-
-      Kingsglaive Final Fantasy XV
-    genre.sync: Action,Adventure,Drama,Fantasy,Sci-Fi,Full CGI,Magic,War
-    studio: Square Enix
-    audience_rating: 7.0
-    critic_rating: 7.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt5323662:
-    title: |-
-      Koe no Katachi
-    sort_title: |-
-      Koe no Katachi
-    original_title: |-
-      A Silent Voice
-    genre.sync: Drama,Romance,Slice of Life,Disability,Bullying,Rehabilitation,Language Barrier,Coming of Age,Suicide,Denpa,Tragedy,Male Protagonist,Primarily Teen Cast,School,Time Skip
-    studio: Kyoto Animation
-    audience_rating: 8.8
-    critic_rating: 8.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt4489416:
-    title: |-
-      Kokoro ga Sakebitagatterun da.
-    sort_title: |-
-      Kokoro ga Sakebitagatterun da.
-    original_title: |-
-      The Anthem of the Heart
-    genre.sync: Drama,Music,Romance,Slice of Life,Supernatural,Rehabilitation,School,Coming of Age,Tragedy,Musical Theater,Female Protagonist,Love Triangle,Primarily Teen Cast,Heterosexual
-    studio: A-1 Pictures
-    audience_rating: 7.6
-    critic_rating: 7.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt4769824:
-    title: |-
-      Kono Sekai no Katasumi ni
-    sort_title: |-
-      Kono Sekai no Katasumi ni
-    original_title: |-
-      In This Corner of the World
-    genre.sync: Drama,Slice of Life,Historical,War,Family Life,Female Protagonist,Tragedy,Seinen,Rehabilitation
-    studio: MAPPA
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt9239552:
-    title: |-
-      Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu
-    sort_title: |-
-      Kono Subarashii Sekai ni Shukufuku wo! Kurenai Densetsu
-    original_title: |-
-      KONOSUBA -God's blessing on this wonderful world!- Legend of Crimson
-    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Supernatural,Satire,Isekai,Parody,Magic,Male Protagonist,Chuunibyou,Ensemble Cast,Anti-Hero,Chimera,Afterlife,Primarily Female Cast,Futanari,Demons
-    studio: J.C. Staff
+      Josee to Tora to Sakanatachi
+    genre.sync: Anime,Drama,Romance,Slice of Life,Disability,Female Protagonist,Male Protagonist,Tsundere,Heterosexual,Coming of Age,Primarily Adult Cast,Rehabilitation,Drawing,Tragedy,Scuba Diving,Coastal,Josei
+    studio: bones
     audience_rating: 8.2
     critic_rating: 8.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt2591814:
+  tt23770418:
     title: |-
-      Kotonoha no Niwa
+      Kaguya-sama: Love is War -The First Kiss That Never Ends-
     sort_title: |-
-      Kotonoha no Niwa
+      Kaguya-sama: Love is War -The First Kiss That Never Ends-
     original_title: |-
-      The Garden of Words
-    genre.sync: Drama,Psychological,Romance,Slice of Life,Coming of Age,Age Gap,Teacher,Feet,Male Protagonist,Heterosexual,Urban,Bullying
-    studio: CoMix Wave
-    audience_rating: 7.5
-    critic_rating: 7.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt10253816:
-    title: |-
-      Koutetsujou no Kabaneri: Unato Kessen
-    sort_title: |-
-      Koutetsujou no Kabaneri: Unato Kessen
-    original_title: |-
-      Kabaneri of the Iron Fortress: The Battle of Unato
-    genre.sync: Action,Drama,Fantasy,Horror,Supernatural,Post-Apocalyptic,Steampunk,Zombie,Trains,Travel,Pandemic,Military,Heterosexual,Coming of Age,Gore
-    studio: Wit Studio
-    audience_rating: 7.5
-    critic_rating: 7.7
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt0381348:
-    title: |-
-      Kumo no Mukou, Yakusoku no Basho
-    sort_title: |-
-      Kumo no Mukou, Yakusoku no Basho
-    original_title: |-
-      The Place Promised in Our Early Days
-    genre.sync: Drama,Romance,Sci-Fi,Heterosexual,Alternate Universe,Military,Coming of Age,Aviation,Terrorism
-    studio: CoMix Wave
-    audience_rating: 6.8
-    critic_rating: 7.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0104652:
-    title: |-
-      Kurenai no Buta
-    sort_title: |-
-      Kurenai no Buta
-    original_title: |-
-      Porco Rosso
-    genre.sync: Action,Adventure,Comedy,Drama,Romance,Aviation,Foreign,Anthropomorphism,Historical,Philosophy,Primarily Adult Cast,Coastal,Male Protagonist,Pirates,Fugitive,Travel,Military
-    studio: Studio Ghibli
-    audience_rating: 7.8
-    critic_rating: 7.9
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt6728390:
-    title: |-
-      Kuroko no Basket: Last Game
-    sort_title: |-
-      Kuroko no Basket: Last Game
-    original_title: |-
-      Kuroko's Basketball: Last Game
-    genre.sync: Comedy,Sports,Basketball,Shounen,Athletics,Male Protagonist,Super Power
-    studio: Production I.G
-    audience_rating: 7.9
-    critic_rating: 8.1
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt4531412:
-    title: |-
-      Kyoukai no Kanata: I'LL BE HERE - Kako-hen
-    sort_title: |-
-      Kyoukai no Kanata: I'LL BE HERE - Kako-hen
-    original_title: |-
-      Beyond the Boundary -I'LL BE HERE-: Past
-    genre.sync: Drama,Fantasy,Slice of Life,Supernatural,Urban Fantasy
-    studio: Kyoto Animation
-    audience_rating: 7.4
-    critic_rating: 7.7
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt4539114:
-    title: |-
-      Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
-    sort_title: |-
-      Kyoukai no Kanata: I'LL BE HERE - Mirai-hen
-    original_title: |-
-      Beyond the Boundary -I'LL BE HERE-: Future
-    genre.sync: Action,Drama,Fantasy,Romance,Slice of Life,Supernatural,Urban Fantasy,Super Power,Demons,Male Protagonist,Amnesia,Magic,Primarily Teen Cast
-    studio: Kyoto Animation
-    audience_rating: 7.9
-    critic_rating: 8.1
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt10068916:
-    title: |-
-      Made in Abyss: Fukaki Tamashii no Reimei
-    sort_title: |-
-      Made in Abyss: Fukaki Tamashii no Reimei
-    original_title: |-
-      Made in Abyss: Dawn of the Deep Soul
-    genre.sync: Action,Adventure,Drama,Fantasy,Horror,Mystery,Psychological,Sci-Fi,Tragedy,Survival,Primarily Child Cast,Body Swapping,Seinen,Lost Civilization,Gore,Body Horror,Female Protagonist,Robots,Male Protagonist
-    studio: Kinema Citrus
-    audience_rating: 8.5
-    critic_rating: 8.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt10068544:
-    title: |-
-      Made in Abyss: Hourou Suru Tasogare
-    sort_title: |-
-      Made in Abyss: Hourou Suru Tasogare
-    original_title: |-
-      Made in Abyss: Wandering Twilight
-    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Survival,Seinen
-    studio: Kinema Citrus
-    audience_rating: 8.3
-    critic_rating: 8.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt10068158:
-    title: |-
-      Made in Abyss: Tabidachi no Yoake
-    sort_title: |-
-      Made in Abyss: Tabidachi no Yoake
-    original_title: |-
-      Made in Abyss: Journey's Dawn
-    genre.sync: Adventure,Drama,Fantasy,Horror,Mystery,Sci-Fi,Amnesia,Robots,Primarily Child Cast,Lost Civilization
-    studio: Kinema Citrus
-    audience_rating: 8.0
-    critic_rating: 8.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt6580380:
-    title: |-
-      Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo
-    sort_title: |-
-      Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo
-    original_title: |-
-      The Irregular at Magic High School The Movie: The Girl Who Summons the Stars
-    genre.sync: Sci-Fi,Supernatural,Magic,Military,Politics,Twins,School
-    studio: 8-bit
-    audience_rating: 7.2
-    critic_rating: 7.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
+      Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai
+    genre.sync: Anime,Comedy,Psychological,Romance,Slice of Life,Heterosexual,Coming of Age,School,Philosophy,Primarily Teen Cast,Male Protagonist,Dissociative Identities,Female Protagonist,Tsundere,Ojou-sama,Kuudere,School Club,Slapstick,Seinen,Ensemble Cast
+    studio: A-1 Pictures
+    audience_rating: 8.7
+    critic_rating: 8.8
   tt0097814:
     title: |-
-      Majo no Takkyuubin
-    sort_title: |-
-      Majo no Takkyuubin
-    original_title: |-
       Kiki's Delivery Service
-    genre.sync: Adventure,Drama,Fantasy,Slice of Life,Coming of Age,Witch,Female Protagonist,Urban Fantasy,Magic,Primarily Female Cast,Work,Urban,Primarily Adult Cast
+    sort_title: |-
+      Kiki's Delivery Service
+    original_title: |-
+      Majo no Takkyuubin
+    genre.sync: Anime,Adventure,Drama,Fantasy,Slice of Life,Coming of Age,Witch,Female Protagonist,Urban Fantasy,Magic,Primarily Female Cast,Work,Urban,Primarily Adult Cast,Aviation
     studio: Studio Ghibli
     audience_rating: 8.1
     critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0113824:
+  tt14364238:
     title: |-
-      Mimi wo Sumaseba
+      Laid-Back Camp The Movie
     sort_title: |-
-      Mimi wo Sumaseba
+      Laid-Back Camp The Movie
     original_title: |-
-      Whisper of the Heart
-    genre.sync: Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual
-    studio: Studio Ghibli
-    audience_rating: 8.1
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt6900448:
+      Yuru Camp△ Movie
+    genre.sync: Anime,Comedy,Slice of Life,Outdoor,Primarily Adult Cast,Cute Girls Doing Cute Things,Time Skip,Iyashikei,Primarily Female Cast,Food,Female Protagonist,Coming of Age,Rural,Travel
+    studio: C-Station
+    audience_rating: 8.3
+    critic_rating: 8.4
+  tt14759062:
     title: |-
-      Mirai no Mirai
+      Mobile Suit Gundam SEED FREEDOM
     sort_title: |-
-      Mirai no Mirai
+      Mobile Suit Gundam SEED FREEDOM
     original_title: |-
-      Mirai
-    genre.sync: Comedy,Drama,Fantasy,Slice of Life,Family Life,Urban Fantasy,Time Manipulation,Coming of Age
-    studio: Studio Chizu
-    audience_rating: 7.1
-    critic_rating: 7.3
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0119698:
-    title: |-
-      Mononoke-hime
-    sort_title: |-
-      Mononoke-hime
-    original_title: |-
-      Princess Mononoke
-    genre.sync: Action,Adventure,Drama,Fantasy,Environmental,Mythology,Animals,Philosophy,War,Gods,Eco-Horror,Rural,Youkai,Demons,Female Protagonist,Revenge,Historical,Male Protagonist,Urban Fantasy
-    studio: Studio Ghibli
-    audience_rating: 8.4
-    critic_rating: 8.7
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt9089294:
-    title: |-
-      Nanatsu no Taizai Movie: Tenkuu no Torawarebito
-    sort_title: |-
-      Nanatsu no Taizai Movie: Tenkuu no Torawarebito
-    original_title: |-
-      The Seven Deadly Sins the Movie: Prisoners of the Sky
-    genre.sync: Action,Adventure,Fantasy,Shounen,Demons,Magic,Super Power,Male Protagonist,Ensemble Cast,Fairy
-    studio: A-1 Pictures
-    audience_rating: 6.9
-    critic_rating: 7.1
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt13884144:
-    title: |-
-      Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi
-    sort_title: |-
-      Nanatsu no Taizai: Hikari ni Norowareshi Mono-tachi
-    original_title: |-
-      The Seven Deadly Sins: Cursed by Light
-    genre.sync: Action,Adventure,Comedy,Ecchi,Fantasy,Demons,Gods,Magic,Shounen,Male Protagonist
-    studio: Studio DEEN
-    audience_rating: 7.0
-    critic_rating: 7.1
-    label: Planning
-    label.remove: Completed,Watching,Dropped,Paused,
-  tt17382524:
-    title: |-
-      Natsu e no Tunnel, Sayonara no Deguchi
-    sort_title: |-
-      Natsu e no Tunnel, Sayonara no Deguchi
-    original_title: |-
-      The Tunnel to Summer, the Exit of Goodbyes
-    genre.sync: Drama,Romance,Supernatural,Time Manipulation,Male Protagonist,Rural,Coming of Age,Heterosexual,Time Skip,Tragedy
-    studio: CLAP
-    audience_rating: 7.8
-    critic_rating: 7.9
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0347618:
-    title: |-
-      Neko no Ongaeshi
-    sort_title: |-
-      Neko no Ongaeshi
-    original_title: |-
-      The Cat Returns
-    genre.sync: Adventure,Comedy,Drama,Fantasy,Animals,Anthropomorphism,Nekomimi,Fairy Tale,Female Protagonist,Kemonomimi,Isekai,Primarily Animal Cast,Royal Affairs,Heterosexual,Arranged Marriage,Shoujo
-    studio: Studio Ghibli
-    audience_rating: 7.5
+      Kidou Senshi Gundam SEED FREEDOM
+    genre.sync: Anime,Action,Drama,Mecha,Romance,Sci-Fi,Real Robot,Conspiracy,Ensemble Cast,Military,Heterosexual,Space Opera,Space,Super Robot,CGI,Class Struggle,Politics,Clone,Love Triangle
+    studio: Sunrise
+    audience_rating: 7.3
     critic_rating: 7.7
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt3398268:
+  tt0096283:
     title: |-
-      Omoide no Marnie
+      My Neighbor Totoro
     sort_title: |-
-      Omoide no Marnie
+      My Neighbor Totoro
     original_title: |-
-      When Marnie Was There
-    genre.sync: Drama,Mystery,Psychological,Female Protagonist,Rural,Ghost,Outdoor,Tragedy,Time Manipulation,Drawing,Disability,Estranged Family
+      Tonari no Totoro
+    genre.sync: Anime,Adventure,Fantasy,Slice of Life,Supernatural,Family Life,Primarily Child Cast,Rural,Youkai,Female Protagonist,Urban Fantasy,Kids
     studio: Studio Ghibli
-    audience_rating: 7.8
-    critic_rating: 8.0
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+    audience_rating: 8.0
+    critic_rating: 8.2
+  tt0206013:
+    title: |-
+      My Neighbors the Yamadas
+    sort_title: |-
+      My Neighbors the Yamadas
+    original_title: |-
+      Hoohokekyo Tonari no Yamada-kun
+    genre.sync: Anime,Comedy,Slice of Life,Ensemble Cast,Family Life,Achronological Order,Chibi,Rotoscoping,Episodic
+    studio: Studio Ghibli
+    audience_rating: 6.8
+    critic_rating: 7.1
+  tt0087544:
+    title: |-
+      Nausicaä of the Valley of the Wind
+    sort_title: |-
+      Nausicaä of the Valley of the Wind
+    original_title: |-
+      Kaze no Tani no Nausicaä
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Sci-Fi,Environmental,Post-Apocalyptic,Lost Civilization,Female Protagonist,Philosophy,War,Aviation,Military,Eco-Horror,Kaiju,Survival,Primarily Adult Cast
+    studio: Studio Hibari
+    audience_rating: 8.1
+    critic_rating: 8.4
+  tt0108432:
+    title: |-
+      Ocean Waves
+    sort_title: |-
+      Ocean Waves
+    original_title: |-
+      Umi ga Kikoeru
+    genre.sync: Anime,Drama,Romance,Slice of Life,School,Coming of Age,Male Protagonist,Heterosexual,Coastal,Female Protagonist,Love Triangle,Primarily Teen Cast,Travel
+    studio: J.C. Staff
+    audience_rating: 6.3
+    critic_rating: 6.5
   tt0102587:
     title: |-
-      Omoide Poro Poro
-    sort_title: |-
-      Omoide Poro Poro
-    original_title: |-
       Only Yesterday
-    genre.sync: Drama,Romance,Slice of Life,Female Protagonist,Rural,Coming of Age,Iyashikei,Biographical,Philosophy,Family Life,Josei,Historical,Agriculture,Travel
+    sort_title: |-
+      Only Yesterday
+    original_title: |-
+      Omoide Poro Poro
+    genre.sync: Anime,Drama,Romance,Slice of Life,Female Protagonist,Rural,Coming of Age,Iyashikei,Biographical,Philosophy,Family Life,Josei,Historical,Agriculture,Travel,School,Heterosexual
     studio: Studio Ghibli
     audience_rating: 7.3
     critic_rating: 7.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt2140203:
-    title: |-
-      Ookami Kodomo no Ame to Yuki
-    sort_title: |-
-      Ookami Kodomo no Ame to Yuki
-    original_title: |-
-      Wolf Children
-    genre.sync: Drama,Fantasy,Romance,Slice of Life,Family Life,Werewolf,Coming of Age,Female Protagonist,Environmental,Rural,Parenthood,Snowscape,Shapeshifting,Kemonomimi,Tragedy
-    studio: MADHOUSE
-    audience_rating: 8.3
-    critic_rating: 8.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt11433874:
-    title: |-
-      Psycho-pass 3: First Inspector
-    sort_title: |-
-      Psycho-pass 3: First Inspector
-    original_title: |-
-      PSYCHO-PASS 3: First Inspector
-    genre.sync: Action,Psychological,Sci-Fi,Thriller,Police,Crime,Cyberpunk,Dystopian,Detective,Artificial Intelligence,Philosophy
-    studio: Production I.G
-    audience_rating: 7.6
-    critic_rating: 7.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt4219130:
-    title: |-
-      PSYCHO-PASS Movie
-    sort_title: |-
-      PSYCHO-PASS Movie
-    original_title: |-
-      PSYCHO-PASS: The Movie
-    genre.sync: Action,Sci-Fi,Police,Cyberpunk,Female Protagonist,Primarily Adult Cast,Urban Fantasy,Detective,Military,Dystopian,War,Crime,Conspiracy
-    studio: Production I.G
-    audience_rating: 7.5
-    critic_rating: 7.7
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt26224944:
-    title: |-
-      Psycho-pass Providence
-    sort_title: |-
-      Psycho-pass Providence
-    original_title: |-
-      PSYCHO-PASS: Providence
-    genre.sync: Action,Psychological,Sci-Fi,Thriller,Cyberpunk,Artificial Intelligence,Crime,Police,Dystopian,Guns,Female Protagonist,Espionage,Conspiracy,Religion
-    studio: Production I.G
-    audience_rating: 7.6
-    critic_rating: 7.6
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt10443844:
-    title: |-
-      PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu
-    sort_title: |-
-      PSYCHO-PASS Sinners of the System Case 1: Tsumi to Batsu
-    original_title: |-
-      PSYCHO-PASS Sinners of the System: Case.1 Crime and Punishment
-    genre.sync: Action,Psychological,Sci-Fi,Thriller,Cyberpunk,Police,Female Protagonist,Dystopian,Crime,Primarily Adult Cast,Conspiracy
-    studio: Production I.G
-    audience_rating: 7.0
-    critic_rating: 7.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt11078434:
-    title: |-
-      PSYCHO-PASS Sinners of the System Case 2: First Guardian
-    sort_title: |-
-      PSYCHO-PASS Sinners of the System Case 2: First Guardian
-    original_title: |-
-      PSYCHO-PASS Sinners of the System: Case.2 First Guardian
-    genre.sync: Action,Psychological,Sci-Fi,Thriller,Police,Cyberpunk,Military,Guns,Revenge,Tragedy
-    studio: Production I.G
-    audience_rating: 7.3
-    critic_rating: 7.5
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt11078522:
-    title: |-
-      PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____
-    sort_title: |-
-      PSYCHO-PASS Sinners of the System Case 3: Onshuu no Kanata ni ____
-    original_title: |-
-      PSYCHO-PASS Sinners of the System: Case.3 Beyond the Pale of Vengeance
-    genre.sync: Action,Psychological,Sci-Fi,Thriller,Cyberpunk,Foreign
-    studio: Production I.G
-    audience_rating: 7.6
-    critic_rating: 7.7
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt10736726:
-    title: |-
-      Quanzhi Gaoshou: Dianfeng Rongyao
-    sort_title: |-
-      Quanzhi Gaoshou: Dianfeng Rongyao
-    original_title: |-
-      The King's Avatar: For the Glory
-    genre.sync: Action,Drama,Video Games,E-Sports,Tragedy
-    studio: Colored Pencil Animation
-    audience_rating: 7.8
-    critic_rating: 8.1
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt13651628:
-    title: |-
-      Ryuu to Sobakasu no Hime
-    sort_title: |-
-      Ryuu to Sobakasu no Hime
-    original_title: |-
-      Belle
-    genre.sync: Drama,Music,Mystery,Sci-Fi,Virtual World,Primarily Teen Cast,Female Protagonist,Artificial Intelligence,Coming of Age,Augmented Reality,CGI,Fairy Tale,Tragedy,Idol
-    studio: Studio Chizu
-    audience_rating: 7.3
-    critic_rating: 7.5
-    label.remove: Completed,Watching,Dropped,Paused,Planning
   tt2981768:
     title: |-
-      Sakasama no Patema
-    sort_title: |-
-      Sakasama no Patema
-    original_title: |-
       Patema Inverted
-    genre.sync: Adventure,Romance,Sci-Fi,Lost Civilization,Post-Apocalyptic,Dystopian,Heterosexual,Female Protagonist,Male Protagonist,Environmental
+    sort_title: |-
+      Patema Inverted
+    original_title: |-
+      Sakasama no Patema
+    genre.sync: Anime,Adventure,Romance,Sci-Fi,Lost Civilization,Post-Apocalyptic,Dystopian,Heterosexual,Female Protagonist,Male Protagonist,Environmental,Steampunk,Tragedy,Primarily Male Cast
     studio: Studio Rikka
     audience_rating: 7.6
     critic_rating: 7.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt7339826:
+  tt0876563:
     title: |-
-      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+      Ponyo
     sort_title: |-
-      Sayonara no Asa ni Yakusoku no Hana wo Kazarou
+      Ponyo
     original_title: |-
-      Maquia: When the Promised Flower Blooms
-    genre.sync: Drama,Fantasy,Psychological,Parenthood,Family Life,Coming of Age,Orphan,Adoption,Female Protagonist,Tragedy,Time Skip,Work,Foreign,Urban Fantasy,Travel
-    studio: P.A. Works
-    audience_rating: 8.2
-    critic_rating: 8.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt27348312:
+      Gake no Ue no Ponyo
+    genre.sync: Anime,Adventure,Fantasy,Environmental,Primarily Child Cast,Rural,Magic,Coastal,Anthropomorphism,Natural Disaster,Urban Fantasy,Male Protagonist,Female Protagonist,Ships,Family Life,Kids
+    studio: Studio Ghibli
+    audience_rating: 7.9
+    critic_rating: 7.9
+  tt0104652:
     title: |-
-      Seishun Buta Yarou wa Odekake Sister no Yume wo Minai
+      Porco Rosso
     sort_title: |-
-      Seishun Buta Yarou wa Odekake Sister no Yume wo Minai
+      Porco Rosso
     original_title: |-
-      Rascal Does Not Dream of a Sister Venturing Out
-    genre.sync: Drama,Psychological,Supernatural,Female Protagonist,Male Protagonist,Coming of Age,Primarily Female Cast,Primarily Teen Cast,Rehabilitation,Urban Fantasy,Family Life,School,Heterosexual
-    studio: CloverWorks
+      Kurenai no Buta
+    genre.sync: Anime,Action,Adventure,Comedy,Drama,Romance,Aviation,Foreign,Anthropomorphism,Historical,Philosophy,Primarily Adult Cast,Coastal,Male Protagonist,Pirates,Fugitive,Travel,Military,Heterosexual,Fairy Tale
+    studio: Studio Ghibli
     audience_rating: 7.8
-    critic_rating: 7.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+    critic_rating: 7.9
+  tt0119698:
+    title: |-
+      Princess Mononoke
+    sort_title: |-
+      Princess Mononoke
+    original_title: |-
+      Mononoke-hime
+    genre.sync: Anime,Action,Adventure,Drama,Fantasy,Environmental,Mythology,Animals,Philosophy,War,Gods,Eco-Horror,Rural,Youkai,Demons,Female Protagonist,Revenge,Historical,Male Protagonist,Urban Fantasy,Guns,Disability,Travel,Archery,Primarily Adult Cast
+    studio: Studio Ghibli
+    audience_rating: 8.4
+    critic_rating: 8.7
+  tt26224944:
+    title: |-
+      PSYCHO-PASS: Providence
+    sort_title: |-
+      PSYCHO-PASS: Providence
+    original_title: |-
+      Psycho-pass Providence
+    genre.sync: Anime,Action,Psychological,Sci-Fi,Thriller,Cyberpunk,Artificial Intelligence,Crime,Police,Dystopian,Guns,Female Protagonist,Espionage,Conspiracy,Religion,Politics
+    studio: Production I.G
+    audience_rating: 7.6
+    critic_rating: 7.6
   tt9881586:
     title: |-
-      Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
-    sort_title: |-
-      Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
-    original_title: |-
       Rascal Does Not Dream of a Dreaming Girl
-    genre.sync: Drama,Psychological,Romance,Supernatural,Time Manipulation,Coming of Age,Tragedy,Female Protagonist,Male Protagonist,Heterosexual,Urban Fantasy,Alternate Universe,Primarily Teen Cast,Urban,Age Regression,Magic,Ensemble Cast,Afterlife
+    sort_title: |-
+      Rascal Does Not Dream of a Dreaming Girl
+    original_title: |-
+      Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai
+    genre.sync: Anime,Drama,Psychological,Romance,Supernatural,Time Manipulation,Coming of Age,Tragedy,Female Protagonist,Male Protagonist,Heterosexual,Urban Fantasy,Alternate Universe,Primarily Teen Cast,Urban,Age Regression,Magic,Ensemble Cast,Afterlife,School,Love Triangle,Amnesia
     studio: CloverWorks
     audience_rating: 8.4
     critic_rating: 8.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt6337252:
+  tt28036417:
     title: |-
-      Seitokai Yakuindomo Movie
+      Rascal Does Not Dream of a Knapsack Kid
     sort_title: |-
-      Seitokai Yakuindomo Movie
+      Rascal Does Not Dream of a Knapsack Kid
     original_title: |-
-      Seitokai Yakuindomo the Movie
-    genre.sync: Comedy,Slice of Life,Shounen,Primarily Female Cast,School
-    studio: GoHands
-    audience_rating: 7.6
-    critic_rating: 7.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt12439230:
+      Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai
+    genre.sync: Anime,Drama,Psychological,Romance,Supernatural,Coming of Age,Male Protagonist,Family Life,Primarily Female Cast,Alternate Universe,Heterosexual,Rehabilitation,Urban Fantasy
+    studio: CloverWorks
+    audience_rating: 8.3
+    critic_rating: 8.3
+  tt27348312:
     title: |-
-      Seitokai Yakuindomo Movie 2
+      Rascal Does Not Dream of a Sister Venturing Out
     sort_title: |-
-      Seitokai Yakuindomo Movie 2
+      Rascal Does Not Dream of a Sister Venturing Out
     original_title: |-
-      Seitokai Yakuindomo Movie 2
-    genre.sync: Comedy,Slice of Life
-    studio: GoHands
-    audience_rating: 7.5
+      Seishun Buta Yarou wa Odekake Sister no Yume wo Minai
+    genre.sync: Anime,Drama,Psychological,Supernatural,Female Protagonist,Male Protagonist,Coming of Age,Primarily Female Cast,Primarily Teen Cast,Rehabilitation,Urban Fantasy,Family Life,School,Heterosexual
+    studio: CloverWorks
+    audience_rating: 7.8
     critic_rating: 7.8
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+  tt9507276:
+    title: |-
+      Saga of Tanya the Evil - the Movie -
+    sort_title: |-
+      Saga of Tanya the Evil - the Movie -
+    original_title: |-
+      Youjo Senki Movie
+    genre.sync: Anime,Action,Fantasy,Military,Foreign,War,Anti-Hero,Revenge,Historical,Magic,Female Protagonist,Gods,Guns,Reincarnation,Primarily Adult Cast,Isekai,Gender Bending,Primarily Male Cast
+    studio: NUT
+    audience_rating: 8.0
+    critic_rating: 8.2
   tt0245429:
     title: |-
-      Sen to Chihiro no Kamikakushi
-    sort_title: |-
-      Sen to Chihiro no Kamikakushi
-    original_title: |-
       Spirited Away
-    genre.sync: Adventure,Drama,Fantasy,Supernatural,Coming of Age,Female Protagonist,Youkai,Urban Fantasy,Magic,Shapeshifting,Work,Isekai,Mythology,Gods
+    sort_title: |-
+      Spirited Away
+    original_title: |-
+      Sen to Chihiro no Kamikakushi
+    genre.sync: Anime,Adventure,Drama,Fantasy,Supernatural,Coming of Age,Female Protagonist,Youkai,Urban Fantasy,Magic,Shapeshifting,Work,Isekai,Mythology,Gods,Witch,Philosophy,Anthropomorphism
     studio: Studio Ghibli
     audience_rating: 8.6
     critic_rating: 8.8
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt11417856:
-    title: |-
-      Shika no Ou: Yuna to Yakusoku no Tabi
-    sort_title: |-
-      Shika no Ou: Yuna to Yakusoku no Tabi
-    original_title: |-
-      The Deer King
-    genre.sync: Action,Adventure,Drama,Fantasy,Fugitive,Adoption,Pandemic,Male Protagonist,Slavery,Found Family,Politics,Medicine,War
-    studio: Production I.G
-    audience_rating: 6.8
-    critic_rating: 6.9
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt2458948:
-    title: |-
-      Shin Evangelion Movie:||
-    sort_title: |-
-      Shin Evangelion Movie:||
-    original_title: |-
-      Evangelion: 3.0+1.0 Thrice Upon a Time
-    genre.sync: Action,Drama,Mecha,Psychological,Sci-Fi,Rehabilitation,Coming of Age,Post-Apocalyptic,Meta,Alternate Universe,Gods,Robots,Time Skip,Philosophy,Survival,Guns,Super Robot,Denpa,Cosmic Horror,Time Manipulation,Space,Tomboy,Male Protagonist,Kaiju,Spearplay
-    studio: Studio Khara
-    audience_rating: 8.5
-    critic_rating: 8.6
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt8346438:
-    title: |-
-      SHIROBAKO Movie
-    sort_title: |-
-      SHIROBAKO Movie
-    original_title: |-
-      SHIROBAKO the Movie
-    genre.sync: Comedy,Drama,Slice of Life,Primarily Adult Cast,Work,Drawing,Female Protagonist,Ensemble Cast
-    studio: P.A. Works
-    audience_rating: 7.6
-    critic_rating: 7.7
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt12642574:
-    title: |-
-      Sidonia no Kishi: Ai Tsumugu Hoshi
-    sort_title: |-
-      Sidonia no Kishi: Ai Tsumugu Hoshi
-    original_title: |-
-      Knights of Sidonia: Love Woven in the Stars
-    genre.sync: Action,Drama,Mecha,Sci-Fi,Space,Aliens,Monster Girl,Military,Post-Apocalyptic,Real Robot,CGI,Full CGI,Male Protagonist
-    studio: POLYGON PICTURES
-    audience_rating: 7.1
-    critic_rating: 7.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1121794:
-    title: |-
-      Stranger: Mukou Hadan
-    sort_title: |-
-      Stranger: Mukou Hadan
-    original_title: |-
-      Sword of the Stranger
-    genre.sync: Action,Adventure,Swordplay,Fugitive,Historical,Samurai,Rural,Male Protagonist,Primarily Male Cast,Language Barrier,Gore,Primarily Adult Cast,Archery,Animals,Travel
-    studio: bones
-    audience_rating: 7.9
-    critic_rating: 8.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1474276:
-    title: |-
-      Summer Wars
-    sort_title: |-
-      Summer Wars
-    original_title: |-
-      Summer Wars
-    genre.sync: Action,Comedy,Drama,Romance,Sci-Fi,Artificial Intelligence,Family Life,Virtual World,Ensemble Cast,Rural,Male Protagonist,Terrorism
-    studio: MADHOUSE
-    audience_rating: 7.7
-    critic_rating: 8.0
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt16428256:
     title: |-
-      Suzume no Tojimari
-    sort_title: |-
-      Suzume no Tojimari
-    original_title: |-
       Suzume
-    genre.sync: Adventure,Fantasy,Mystery,Supernatural,Urban Fantasy,Female Protagonist,Travel,Coming of Age,Magic,Shapeshifting,Orphan,Family Life,Gods,Kaiju
+    sort_title: |-
+      Suzume
+    original_title: |-
+      Suzume no Tojimari
+    genre.sync: Anime,Adventure,Fantasy,Mystery,Supernatural,Urban Fantasy,Female Protagonist,Travel,Coming of Age,Magic,Shapeshifting,Orphan,Family Life,Gods,Kaiju,Animals,Age Gap,Found Family
     studio: CoMix Wave
     audience_rating: 8.2
     critic_rating: 8.3
     label: AA Winner
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt5544384:
-    title: |-
-      Sword Art Online: Ordinal Scale
-    sort_title: |-
-      Sword Art Online: Ordinal Scale
-    original_title: |-
-      Sword Art Online the Movie: Ordinal Scale
-    genre.sync: Action,Adventure,Fantasy,Romance,Sci-Fi,Video Games,Augmented Reality,Swordplay,Virtual World,Artificial Intelligence,Heterosexual,Urban,Memory Manipulation
-    studio: A-1 Pictures
-    audience_rating: 7.3
-    critic_rating: 7.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt13424422:
     title: |-
-      Sword Art Online: Progressive - Hoshinaki Yoru no Aria
-    sort_title: |-
-      Sword Art Online: Progressive - Hoshinaki Yoru no Aria
-    original_title: |-
       Sword Art Online the Movie -Progressive- Aria of a Starless Night
-    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Death Game,Video Games,Swordplay,Survival,Female Protagonist,Primarily Teen Cast,Isekai
+    sort_title: |-
+      Sword Art Online the Movie -Progressive- Aria of a Starless Night
+    original_title: |-
+      Sword Art Online: Progressive - Hoshinaki Yoru no Aria
+    genre.sync: Anime,Action,Adventure,Fantasy,Romance,Virtual World,Death Game,Video Games,Swordplay,Survival,Female Protagonist,Primarily Teen Cast,Isekai,Philosophy,Heterosexual
     studio: A-1 Pictures
     audience_rating: 7.8
     critic_rating: 8.0
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
   tt15830702:
     title: |-
-      Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
-    sort_title: |-
-      Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
-    original_title: |-
       Sword Art Online the Movie -Progressive- Scherzo of Deep Night
-    genre.sync: Action,Adventure,Fantasy,Romance,Virtual World,Isekai,Death Game,Female Protagonist,Swordplay
+    sort_title: |-
+      Sword Art Online the Movie -Progressive- Scherzo of Deep Night
+    original_title: |-
+      Sword Art Online: Progressive - Kuraki Yuuyami no Scherzo
+    genre.sync: Anime,Action,Adventure,Fantasy,Romance,Virtual World,Isekai,Death Game,Female Protagonist,Swordplay,Survival,Dungeon
     studio: A-1 Pictures
     audience_rating: 7.6
     critic_rating: 7.7
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt1288461:
+  tt5544384:
     title: |-
-      Tengen Toppa Gurren Lagann: Gurren-hen
+      Sword Art Online the Movie: Ordinal Scale
     sort_title: |-
-      Tengen Toppa Gurren Lagann: Gurren-hen
+      Sword Art Online the Movie: Ordinal Scale
     original_title: |-
-      Gurren Lagann The Movie: Childhood's End
-    genre.sync: Action,Comedy,Drama,Mecha,Romance,Sci-Fi,Coming of Age,Robots,Desert,Dystopian,Super Robot,Post-Apocalyptic
-    studio: Gainax
-    audience_rating: 7.9
-    critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt1422651:
+      Sword Art Online: Ordinal Scale
+    genre.sync: Anime,Action,Adventure,Fantasy,Romance,Sci-Fi,Video Games,Augmented Reality,Swordplay,Virtual World,Artificial Intelligence,Heterosexual,Urban,Memory Manipulation,Male Protagonist,Female Protagonist,Primarily Female Cast,Primarily Teen Cast
+    studio: A-1 Pictures
+    audience_rating: 7.3
+    critic_rating: 7.6
+  tt0495596:
     title: |-
-      Tengen Toppa Gurren Lagann: Lagann-hen
+      Tales from Earthsea
     sort_title: |-
-      Tengen Toppa Gurren Lagann: Lagann-hen
+      Tales from Earthsea
     original_title: |-
-      Gurren Lagann The Movie: The Lights in the Sky are Stars
-    genre.sync: Action,Drama,Mecha,Romance,Sci-Fi,Space,Super Robot,Super Power,Coming of Age,Politics,Philosophy,Aliens,Henshin,Tragedy,Post-Apocalyptic,Heterosexual,Male Protagonist
-    studio: Gainax
-    audience_rating: 8.4
-    critic_rating: 8.6
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt9426210:
-    title: |-
-      Tenki no Ko
-    sort_title: |-
-      Tenki no Ko
-    original_title: |-
-      Weathering With You
-    genre.sync: Drama,Romance,Slice of Life,Supernatural,Urban Fantasy,Urban,Environmental,Female Protagonist,Male Protagonist,Fugitive,Orphan,Family Life,Heterosexual,Magic,Work
-    studio: CoMix Wave
-    audience_rating: 8.1
-    critic_rating: 8.3
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt0092067:
-    title: |-
-      Tenkuu no Shiro Laputa
-    sort_title: |-
-      Tenkuu no Shiro Laputa
-    original_title: |-
-      Castle in the Sky
-    genre.sync: Adventure,Fantasy,Sci-Fi,Lost Civilization,Environmental,Steampunk,Pirates,Aviation,Fugitive,Female Protagonist,Military,Travel
+      Ged Senki
+    genre.sync: Anime,Adventure,Fantasy,Magic,Travel,Male Protagonist,Dragons,Slavery
     studio: Studio Ghibli
-    audience_rating: 8.0
-    critic_rating: 8.3
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+    audience_rating: 6.4
+    critic_rating: 6.8
+  tt15313532:
+    title: |-
+      Teasing Master Takagi-san: The Movie
+    sort_title: |-
+      Teasing Master Takagi-san: The Movie
+    original_title: |-
+      Karakai Jouzu no Takagi-san Movie
+    genre.sync: Anime,Comedy,Romance,Slice of Life,Heterosexual,Primarily Child Cast,School,Animals,Female Protagonist,Male Protagonist,Iyashikei,Coming of Age
+    studio: Shin-Ei Animation
+    audience_rating: 8.4
+    critic_rating: 8.4
   tt15467380:
     title: |-
-      Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen
-    sort_title: |-
-      Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen
-    original_title: |-
       That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
-    genre.sync: Action,Adventure,Comedy,Fantasy,Isekai,Magic,Demons,Reincarnation,Shapeshifting,Tragedy,Kingdom Management,Male Protagonist,Politics,Philosophy,Monster Girl,Afterlife,Agender
+    sort_title: |-
+      That Time I Got Reincarnated as a Slime the Movie: Scarlet Bond
+    original_title: |-
+      Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Isekai,Magic,Demons,Reincarnation,Shapeshifting,Tragedy,Kingdom Management,Male Protagonist,Politics,Philosophy,Monster Girl,Afterlife,Agender,Monster Boy,Shounen
     studio: 8-bit
     audience_rating: 7.7
     critic_rating: 7.6
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
+  tt4489416:
+    title: |-
+      The Anthem of the Heart
+    sort_title: |-
+      The Anthem of the Heart
+    original_title: |-
+      Kokoro ga Sakebitagatterun da.
+    genre.sync: Anime,Drama,Music,Romance,Slice of Life,Supernatural,Rehabilitation,School,Coming of Age,Tragedy,Musical Theater,Female Protagonist,Love Triangle,Primarily Teen Cast,Heterosexual,Family Life,Hikikomori
+    studio: A-1 Pictures
+    audience_rating: 7.6
+    critic_rating: 7.8
+  tt6587046:
+    title: |-
+      The Boy and the Heron
+    sort_title: |-
+      The Boy and the Heron
+    original_title: |-
+      Kimitachi wa Dou Ikiru ka
+    genre.sync: Anime,Adventure,Drama,Fantasy,Supernatural,Fairy Tale,Animals,Coming of Age,Autobiographical,Isekai,Anthropomorphism,Shapeshifting,Urban Fantasy,Tragedy,Adoption,Philosophy,Male Protagonist,Time Manipulation,Historical
+    studio: Studio Ghibli
+    audience_rating: 7.7
+    critic_rating: 7.6
+  tt0347618:
+    title: |-
+      The Cat Returns
+    sort_title: |-
+      The Cat Returns
+    original_title: |-
+      Neko no Ongaeshi
+    genre.sync: Anime,Adventure,Comedy,Drama,Fantasy,Animals,Anthropomorphism,Nekomimi,Fairy Tale,Female Protagonist,Kemonomimi,Isekai,Primarily Animal Cast,Royal Affairs,Heterosexual,Arranged Marriage,Shoujo,Urban Fantasy
+    studio: Studio Ghibli
+    audience_rating: 7.4
+    critic_rating: 7.7
+  tt14228078:
+    title: |-
+      The Girl from the Other Side
+    sort_title: |-
+      The Girl from the Other Side
+    original_title: |-
+      Totsukuni no Shoujo (2022)
+    genre.sync: Anime,Drama,Fantasy,Mystery,Rural,Philosophy,Gods,Demons,Environmental,Teacher,Religion,Shounen,Magic,Female Protagonist
+    studio: Wit Studio
+    audience_rating: 7.5
+    critic_rating: 7.6
   tt0808506:
     title: |-
-      Toki wo Kakeru Shoujo
-    sort_title: |-
-      Toki wo Kakeru Shoujo
-    original_title: |-
       The Girl Who Leapt Through Time
-    genre.sync: Drama,Romance,Sci-Fi,Time Manipulation,Female Protagonist,Coming of Age,School,Heterosexual
+    sort_title: |-
+      The Girl Who Leapt Through Time
+    original_title: |-
+      Toki wo Kakeru Shoujo
+    genre.sync: Anime,Drama,Romance,Sci-Fi,Time Manipulation,Female Protagonist,Coming of Age,School,Heterosexual,Tragedy,Primarily Teen Cast
     studio: MADHOUSE
     audience_rating: 7.8
     critic_rating: 8.1
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt0096283:
+  tt6580380:
     title: |-
-      Tonari no Totoro
+      The Irregular at Magic High School The Movie: The Girl Who Summons the Stars
     sort_title: |-
-      Tonari no Totoro
+      The Irregular at Magic High School The Movie: The Girl Who Summons the Stars
     original_title: |-
-      My Neighbor Totoro
-    genre.sync: Adventure,Fantasy,Slice of Life,Supernatural,Family Life,Primarily Child Cast,Rural,Youkai,Female Protagonist,Urban Fantasy
+      Mahouka Koukou no Rettousei: Hoshi wo Yobu Shoujo
+    genre.sync: Anime,Sci-Fi,Supernatural,Magic,Military,Politics,Twins,School,Male Protagonist,Swordplay
+    studio: 8-bit
+    audience_rating: 7.2
+    critic_rating: 7.4
+  tt15497404:
+    title: |-
+      The Irregular at Magic High School: Reminiscence Arc
+    sort_title: |-
+      The Irregular at Magic High School: Reminiscence Arc
+    original_title: |-
+      Mahouka Koukou no Rettousei: Tsuioku-hen
+    genre.sync: Anime,Action,Romance,Sci-Fi,Supernatural,Magic,Heterosexual,Military,Incest,Male Protagonist,Urban Fantasy
+    studio: 8-bit
+    audience_rating: 7.5
+    critic_rating: 7.7
+  tt15721650:
+    title: |-
+      The Quintessential Quintuplets Movie
+    sort_title: |-
+      The Quintessential Quintuplets Movie
+    original_title: |-
+      Go-toubun no Hanayome Movie
+    genre.sync: Anime,Comedy,Drama,Romance,Slice of Life,Twins,Female Harem,Male Protagonist,Coming of Age,Love Triangle,Primarily Female Cast,Ensemble Cast,Heterosexual,Marriage,Teacher,School,Shounen,Achronological Order,Tsundere,Kuudere,Time Skip,Cute Girls Doing Cute Things,Primarily Teen Cast
+    studio: Bibury Animation Studios
+    audience_rating: 7.8
+    critic_rating: 7.8
+  tt1568921:
+    title: |-
+      The Secret World of Arrietty
+    sort_title: |-
+      The Secret World of Arrietty
+    original_title: |-
+      Karigurashi no Arrietty
+    genre.sync: Anime,Adventure,Drama,Fantasy,Rural,Family Life,Classic Literature,Female Protagonist,Coming of Age
     studio: Studio Ghibli
-    audience_rating: 8.0
+    audience_rating: 7.7
+    critic_rating: 7.9
+  tt17677744:
+    title: |-
+      The Seven Deadly Sins: Grudge of Edinburgh Part 1
+    sort_title: |-
+      The Seven Deadly Sins: Grudge of Edinburgh Part 1
+    original_title: |-
+      Nanatsu no Taizai: Ensa no Edinburgh - Zenpen
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Full CGI,CGI,Super Power,Demons,Magic,Fairy,Swordplay
+    studio: Marvy Jack
+    audience_rating: 6.1
+    critic_rating: 6.2
+  tt25010142:
+    title: |-
+      The Seven Deadly Sins: Grudge of Edinburgh Part 2
+    sort_title: |-
+      The Seven Deadly Sins: Grudge of Edinburgh Part 2
+    original_title: |-
+      Nanatsu no Taizai: Ensa no Edinburgh - Kouhen
+    genre.sync: Anime,Action,Adventure,Comedy,Fantasy,Fairy,Demons,Swordplay,Full CGI,Super Power,CGI
+    studio: Alfred Imageworks
+    audience_rating: 6.5
+    critic_rating: 6.6
+  tt2576852:
+    title: |-
+      The Tale of The Princess Kaguya
+    sort_title: |-
+      The Tale of The Princess Kaguya
+    original_title: |-
+      Kaguya-hime no Monogatari
+    genre.sync: Anime,Drama,Fantasy,Romance,Philosophy,Classic Literature,Tragedy,Historical,Fairy Tale,Female Protagonist,Rural,Family Life,Gods,Religion,Primarily Adult Cast
+    studio: Studio Ghibli
+    audience_rating: 8.1
     critic_rating: 8.2
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt0108432:
+  tt17382524:
     title: |-
-      Umi ga Kikoeru
+      The Tunnel to Summer, the Exit of Goodbyes
     sort_title: |-
-      Umi ga Kikoeru
+      The Tunnel to Summer, the Exit of Goodbyes
     original_title: |-
-      Ocean Waves
-    genre.sync: Drama,Romance,Slice of Life,School,Coming of Age,Male Protagonist,Heterosexual,Coastal,Female Protagonist,Love Triangle,Primarily Teen Cast
-    studio: J.C. Staff
-    audience_rating: 6.3
-    critic_rating: 6.5
-    label.remove: Completed,Watching,Dropped,Paused,Planning
-  tt10477558:
+      Natsu e no Tunnel, Sayonara no Deguchi
+    genre.sync: Anime,Drama,Romance,Supernatural,Time Manipulation,Male Protagonist,Rural,Coming of Age,Heterosexual,Time Skip,Tragedy,Kuudere,School
+    studio: CLAP
+    audience_rating: 7.8
+    critic_rating: 7.9
+  tt15439344:
     title: |-
-      Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
+      To Every You I’ve Loved Before
     sort_title: |-
-      Violet Evergarden Gaiden: Eien to Jidou Shuki Ningyou
+      To Every You I’ve Loved Before
     original_title: |-
-      Violet Evergarden: Eternity and the Auto Memory Doll
-    genre.sync: Drama,Fantasy,Slice of Life,Family Life,Female Protagonist,Writing,Work,Historical,Orphan,Found Family,Time Skip,Foreign,College,Primarily Adult Cast,Ojou-sama,Primarily Female Cast
-    studio: Kyoto Animation
-    audience_rating: 8.3
-    critic_rating: 8.4
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt8652818:
+      Boku ga Aishita Subete no Kimi e
+    genre.sync: Anime,Romance,Sci-Fi,Alternate Universe,Coming of Age,Male Protagonist,Family Life,Philosophy,Time Skip,Heterosexual,Time Manipulation
+    studio: BAKKEN RECORD
+    audience_rating: 7.3
+    critic_rating: 7.5
+  tt15450826:
     title: |-
-      Violet Evergarden Movie
+      To Me, The One Who Loved You
     sort_title: |-
-      Violet Evergarden Movie
+      To Me, The One Who Loved You
     original_title: |-
-      Violet Evergarden: the Movie
-    genre.sync: Drama,Fantasy,Slice of Life,Writing,Female Protagonist,Tragedy,Work,Historical,Foreign,Age Gap,Rehabilitation,Heterosexual,Military,Steampunk,Time Skip,Disability
-    studio: Kyoto Animation
-    audience_rating: 8.7
-    critic_rating: 8.9
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt9507276:
+      Kimi wo Aishita Hitori no Boku e
+    genre.sync: Anime,Romance,Sci-Fi,Male Protagonist,Alternate Universe,Ghost,Coming of Age,Time Manipulation,Heterosexual,Memory Manipulation,Time Skip,Tragedy
+    studio: TMS Entertainment
+    audience_rating: 7.2
+    critic_rating: 7.4
+  tt9426210:
     title: |-
-      Youjo Senki Movie
+      Weathering With You
     sort_title: |-
-      Youjo Senki Movie
+      Weathering With You
     original_title: |-
-      Saga of Tanya the Evil - the Movie -
-    genre.sync: Action,Fantasy,Military,Foreign,War,Anti-Hero,Revenge,Historical,Magic,Female Protagonist,Gods,Guns,Reincarnation,Primarily Adult Cast,Isekai
-    studio: NUT
-    audience_rating: 8.0
+      Tenki no Ko
+    genre.sync: Anime,Drama,Romance,Slice of Life,Supernatural,Urban Fantasy,Urban,Environmental,Female Protagonist,Male Protagonist,Fugitive,Orphan,Family Life,Heterosexual,Magic,Work,Gods
+    studio: CoMix Wave
+    audience_rating: 8.1
+    critic_rating: 8.3
+  tt3398268:
+    title: |-
+      When Marnie Was There
+    sort_title: |-
+      When Marnie Was There
+    original_title: |-
+      Omoide no Marnie
+    genre.sync: Anime,Drama,Mystery,Psychological,Female Protagonist,Rural,Ghost,Outdoor,Tragedy,Time Manipulation,Drawing,Disability,Estranged Family,Amnesia
+    studio: Studio Ghibli
+    audience_rating: 7.8
+    critic_rating: 8.0
+  tt0113824:
+    title: |-
+      Whisper of the Heart
+    sort_title: |-
+      Whisper of the Heart
+    original_title: |-
+      Mimi wo Sumaseba
+    genre.sync: Anime,Adventure,Drama,Romance,Slice of Life,Coming of Age,Writing,Female Protagonist,Heterosexual,Shoujo,Animals,Primarily Teen Cast,School
+    studio: Studio Ghibli
+    audience_rating: 8.1
     critic_rating: 8.2
-    label: Completed
-    label.remove: Watching,Dropped,Paused,Planning
-  tt14364238:
+  tt2140203:
     title: |-
-      Yuru Camp△ Movie
+      Wolf Children
     sort_title: |-
-      Yuru Camp△ Movie
+      Wolf Children
     original_title: |-
-      Laid-Back Camp The Movie
-    genre.sync: Comedy,Slice of Life,Outdoor,Primarily Adult Cast,Cute Girls Doing Cute Things,Time Skip,Iyashikei,Primarily Female Cast,Food,Female Protagonist,Coming of Age,Rural
-    studio: C-Station
+      Ookami Kodomo no Ame to Yuki
+    genre.sync: Anime,Drama,Fantasy,Romance,Slice of Life,Family Life,Werewolf,Coming of Age,Female Protagonist,Environmental,Rural,Parenthood,Snowscape,Shapeshifting,Kemonomimi,Tragedy,Animals,Mythology,Agriculture,Urban,Male Protagonist
+    studio: MADHOUSE
     audience_rating: 8.3
-    critic_rating: 8.4
-    label.remove: Completed,Watching,Dropped,Paused,Planning
+    critic_rating: 8.6
+  tt5311514:
+    title: |-
+      Your Name.
+    sort_title: |-
+      Your Name.
+    original_title: |-
+      Kimi no Na wa.
+    genre.sync: Anime,Drama,Romance,Supernatural,Body Swapping,Time Manipulation,Urban Fantasy,Coming of Age,Memory Manipulation,Female Protagonist,Philosophy,Tragedy,Urban,Gender Bending,Time Skip,Rural,Heterosexual,Primarily Teen Cast,Environmental,Mythology
+    studio: CoMix Wave
+    audience_rating: 8.5
+    critic_rating: 8.8
+    label: AA Winner
